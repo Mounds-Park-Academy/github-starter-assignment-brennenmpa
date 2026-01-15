@@ -33,11 +33,11 @@ https://creativecommons.org/licenses/by-nc-sa/3.0
 
  position: relative;
 
- height: 60vh; /* 60% of screen height - CUSTOMIZE THIS */
+ height: 90vh;
 
  overflow: hidden;
 
- background: #111; /* fallback color while animation loads */
+ background: #9b6262ff; 
 
  }
 
@@ -100,7 +100,7 @@ https://creativecommons.org/licenses/by-nc-sa/3.0
 
 <header id="hero">
 
- <iframe class="hero-embed" src="<iframe src="https://openprocessing.org/sketch/2711565/embed/" width="400" height="400"></iframe>" allowfullscreen></iframe>
+ <iframe class="hero-embed" src=""https://openprocessing.org/sketch/2711565/embed/"allowfullscreen></iframe>
 
  <h1 class="site-title">How to Make A Website With HTML (Mac)</h1>
 
